@@ -3,7 +3,7 @@
 ```bash
 head chipotle.csv
 ```
-This shows the columns which led me to this conclusion.
+This shows the columns "order_id", "quantity", "item_name", etc. which led me to this conclusion.
 
 1) ii. There are 1834 Order IDs
 
